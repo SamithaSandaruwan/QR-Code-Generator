@@ -16,6 +16,5 @@ To install the required libraries, use:
 ```bash
 pip install customtkinter qrcode[pil]
 
-## Preview
 
 <img src="Assets\QR Generator.png" width=700px/>
