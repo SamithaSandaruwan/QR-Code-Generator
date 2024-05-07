@@ -15,3 +15,7 @@ A simple and modern QR code generator built with Python and `customtkinter`. Thi
 To install the required libraries, use:
 ```bash
 pip install customtkinter qrcode[pil]
+
+## Preview
+
+<img src ="https://github.com/SamithaSandaruwan/QR-Code-Generator/blob/40699c09f4f73cd9b3fedfc0428f057a4d82cde2/Assets/QR%20Generator.png">
