@@ -18,4 +18,4 @@ pip install customtkinter qrcode[pil]
 
 ## Preview
 
-<img src ="https://github.com/SamithaSandaruwan/QR-Code-Generator/blob/40699c09f4f73cd9b3fedfc0428f057a4d82cde2/Assets/QR%20Generator.png">
+<img src="Assets\QR Generator.png" width=700px/>
